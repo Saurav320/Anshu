@@ -13,7 +13,7 @@ const Secrate = () => {
   };
 
   const checkPassword = () => {
-    if (num.toLowerCase() === "love") {
+    if (num.toLowerCase() === "anshu143") {
       setShowImages(true);
     } else {
       alert("Wrong Password ❤️");
