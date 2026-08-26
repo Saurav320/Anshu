@@ -4,7 +4,7 @@ import "./Home.css";
 import image0 from "../assets/image0.jpeg";
 
 export default function Home({ playOnly, song2Ref, song5Ref }) {
-  const PASS = "anshu431";
+  const PASS = "anshu341";
   const navigate = useNavigate();
   const [pass, setPass] = useState("");
 
